@@ -1,0 +1,12 @@
+#message {
+  display: none;
+}
+input {
+  background: transparent !important;
+  border: 1px solid #ccc;
+  outline: none;
+  width: 100%;
+  height: 60px;
+  padding: 0 20px;
+  color: #fff;
+}
